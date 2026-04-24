@@ -605,7 +605,8 @@ html, body, [class*="css"], .stApp, button, input, textarea, select {
     font-size: 0.85rem !important; text-transform: none !important;
     letter-spacing: 0 !important; cursor: pointer;
 }
-.stRadio [data-baseweb="radio"] { display: none !important; }
+.stRadio [data-baseweb="radio"] > div:first-child { display: none !important; }
+.stRadio label p { color: inherit !important; margin: 0 !important; }
 .stRadio label:has(input:checked) { background: rgba(255,255,255,0.08) !important; color: var(--fg) !important; }
 
 [data-testid="stExpander"] summary, .streamlit-expanderHeader {
