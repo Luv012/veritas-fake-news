@@ -1,0 +1,22 @@
+{
+  "high": [
+    "reuters.com", "apnews.com", "bbc.com", "bbc.co.uk", "npr.org",
+    "nature.com", "science.org", "theguardian.com", "nytimes.com",
+    "washingtonpost.com", "wsj.com", "economist.com", "ft.com",
+    "bloomberg.com", "aljazeera.com", "pbs.org", "abcnews.go.com",
+    "cbsnews.com", "thehindu.com", "indianexpress.com", "ndtv.com",
+    "hindustantimes.com", "livemint.com"
+  ],
+  "medium": [
+    "cnn.com", "foxnews.com", "nbcnews.com", "usatoday.com",
+    "huffpost.com", "forbes.com", "businessinsider.com",
+    "timesofindia.indiatimes.com", "news18.com", "indiatoday.in",
+    "dailymail.co.uk", "nypost.com", "thesun.co.uk"
+  ],
+  "low": [
+    "infowars.com", "breitbart.com", "naturalnews.com",
+    "beforeitsnews.com", "worldnewsdailyreport.com",
+    "theonion.com", "clickhole.com", "empirenews.net",
+    "newspunch.com", "yournewswire.com", "activistpost.com"
+  ]
+}
